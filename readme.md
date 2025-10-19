@@ -27,7 +27,7 @@ Players can move around, drop bombs, trigger explosions, and get eliminated — 
 
 ### 1. Clone the repository
 ```bash
-git clone https://gitea.kood.tech/sokrad/web-game.git
+git clone https://github.com/Tykion/web-bomberman-game
 cd web-game
 ```
 
@@ -59,3 +59,4 @@ node app.js
     * Space -> Drop bomb
 4. Break tiles and collect powerups
 5. Avoid explosions and survive!
+
